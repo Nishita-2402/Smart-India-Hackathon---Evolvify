@@ -14,6 +14,22 @@ Welcome to Evolvify - your companion on the journey to self-awareness and person
 
 - **Community:** Connect with like-minded individuals, share experiences, and learn from each other.
 
+## Technologies Used
+
+- **Frontend:**
+  - HTML5
+  - CSS3
+  - JavaScript (React.js for dynamic UI)
+  - Next.js
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB 
+
+- **Version Control:**
+  - Git and GitHub
+
 ## Getting Started
 
 To get started with Evolvify, follow these steps:
